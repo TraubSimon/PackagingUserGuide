@@ -1,7 +1,7 @@
 # Packaging Python Projects
 
 - Tutorial how to package a simple Python project
-- Source : [Packaging Python Projects]("https://packaging.python.org/en/latest/tutorials/packaging-projects/")
+- Source: [Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects)
 - shows
     - necessary files
     - how to build the package
@@ -98,7 +98,7 @@ Issues = "https://github.com/TraubSimon/PackagingUserGuide/issues"
 - `license-file`: list of glob paths to license files relative to the location of `pyproject.toml`
 - `urls`: links to source, documentation, issue teacker, etc
 
-See the [pyproject.toml guide]("https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#writing-pyproject-toml") for details
+See the [pyproject.toml guide](https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#writing-pyproject-toml) for details
 
 ## Crreating a LICENSE
 - important to include a license into every Python Package
